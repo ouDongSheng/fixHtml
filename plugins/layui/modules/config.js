@@ -1,13 +1,13 @@
 layui.define(['table'], function(exports) {
     var config = { //张
         serverUrl: function() {
-            return "http://192.168.1.215/cherrytea-admin/";
+            return "http://111.229.198.213:8087/cherrytea-admin/";
         },
         uploadFileUrl: function() {
-            return "http://192.168.1.215/cherrytea-admin/";
+            return "http://111.229.198.213:8087/cherrytea-admin/";
         },
         imgUrl: function() {
-            return "http://192.168.1.215/cherrytea-admin/";
+            return "http://111.229.198.213:8087/cherrytea-admin/";
         }
     }
 

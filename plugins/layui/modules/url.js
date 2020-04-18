@@ -1,7 +1,7 @@
 var u = {
-    TUrl : 'http://192.168.1.215:9094/cherrytea-admin/',
-    ImgUrl : 'http://192.168.1.215:9094/cherrytea-admin/',
-    orderUrl : 'http://192.168.1.134:8080/mall/',
+    TUrl : 'http://111.229.198.213:8087/cherrytea-admin/',
+    ImgUrl : 'http://111.229.198.213:8087/cherrytea-admin/',
+    orderUrl : 'http://111.229.198.213:8087/mall/',
     ototal:'http://www.hellooop.com:8080/',
     exaURL: function() {
         var property = decodeURI(window.location.href).split("?")[1];

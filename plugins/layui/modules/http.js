@@ -5,8 +5,8 @@
 // var ImgUrl = 'http://192.168.1.134:8087/ende/';
 
 /* 客户 */
-var TUrl = 'http://127.0.0.1:8087/ende/';
-var ImgUrl = 'http://127.0.0.1:8087/ende/';
+var TUrl = 'http://111.229.198.213:8087/ende/';
+var ImgUrl = 'http://111.229.198.213:8087/ende/';
 
 
 
